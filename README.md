@@ -106,9 +106,3 @@ Contributions are welcome! Please follow these steps:
 ## License 📄
 
 This project is **MIT Licensed** — feel free to use and modify it.
-
----
-
-If you want, I can also **add a polished “project screenshot and badges” section** to make it look like a professional portfolio-ready README, just like production apps on GitHub.
-
-Do you want me to do that next?
