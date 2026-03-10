@@ -16,22 +16,22 @@ const employees = [
     role: 'CTO & Co-Founder',
     image: '/assets/images/team/Shanjid.jpg',
     bio: 'Former Engineer at uFirst Limited with the experience in distributed systems.',
-    social: { twitter: '#', linkedin: '#', github: '#' }
+    social: { twitter: '#', linkedin: 'https://www.linkedin.com/in/shanjid-amin-siam-1908ba260/', github: 'https://github.com/Shanjid188' }
   },
   {
-    name: 'Elena Rodriguez',
-    role: 'Head of Design',
-    image: '/assets/images/team/elena-rodriguez.jpg',
-    bio: 'Award-winning designer focused on creating intuitive and beautiful digital experiences.',
+    name: 'Jubayer Alom Siam',
+    role: 'Head of Business Development',
+    image: '/assets/images/team/SotoSiam.jpg',
+    bio: 'Business Development focused on creating intuitive and beautiful digital experiences.',
     social: { twitter: '#', linkedin: '#', github: '#' }
   },
-  {
-    name: 'David Kim',
-    role: 'Lead Cloud Architect',
-    image: '/assets/images/team/david-kim.jpg',
-    bio: 'Cloud native expert with a focus on high-availability and security.',
-    social: { twitter: '#', linkedin: '#', github: '#' }
-  },
+  // {
+  //   name: 'David Kim',
+  //   role: 'Lead Cloud Architect',
+  //   image: '/assets/images/team/david-kim.jpg',
+  //   bio: 'Cloud native expert with a focus on high-availability and security.',
+  //   social: { twitter: '#', linkedin: '#', github: '#' }
+  // },
 ];
 
 export default function Team({ isSummary = false }: { isSummary?: boolean }) {

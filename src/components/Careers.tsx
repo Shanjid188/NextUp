@@ -57,7 +57,7 @@ export default function Careers({ isSummary = false }: { isSummary?: boolean }) 
               whileInView={{ opacity: 1, y: 0 }}
               viewport={{ once: true }}
               transition={{ delay: i * 0.1 }}
-              className="glass p-8 rounded-[2rem] border-brand-border hover:border-brand-accent/30 transition-all group cursor-pointer"
+              className="glass p-8 rounded-4xl border-brand-border hover:border-brand-accent/30 transition-all group cursor-pointer"
             >
               <div className="flex flex-col md:flex-row md:items-center justify-between gap-6">
                 <div className="space-y-4">
