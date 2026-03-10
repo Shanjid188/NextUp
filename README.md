@@ -1,12 +1,8 @@
-Perfect! Since your **NextUp** project is a modern web app deployed with **Vite + TypeScript**, I’ll draft a **professional, clean README** you can directly use for your GitHub repo. I’ll include sections like project description, features, tech stack, setup instructions, and deployment info. You can tweak it later with your screenshots or demo GIFs.
-
-Here’s a suggested README:
-
----
-
 # NextUp 🚀
 
 NextUp is a modern, responsive web application built with **Vite + TypeScript**. It’s designed to be fast, scalable, and developer-friendly, leveraging the latest frontend technologies for a smooth user experience.
+
+![alt text](image.png)
 
 [Live Demo](https://next-up-ten.vercel.app/)
 
